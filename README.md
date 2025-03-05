@@ -1,2 +1,2 @@
 # Delta-demo
-This is a demo account 
+This is a demo account.
